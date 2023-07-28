@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* body {
+    height: 100dvh;
+}
+
+#__nuxt {
+    height: 100dvh;
+} */
