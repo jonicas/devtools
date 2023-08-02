@@ -10,9 +10,9 @@
 <script setup lang="ts">
 import { ref, computed } from 'vue';
 
+useHead({ title: 'JSON formatter' });
+
 const { beautify } = useJsonFormatter();
-
-
 
 const originalJsonData = ref("");
 const formattedJson = computed(() => {

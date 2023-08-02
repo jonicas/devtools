@@ -15,6 +15,11 @@
         <li class="flex dark:text-slate-400 font-medium text-slate-700 dark:hover:text-slate-300 mb-4">
           <NuxtLink to="/json/format">JSON formatter</NuxtLink>
         </li>
+        <li class="flex dark:text-slate-400 font-medium text-slate-700 dark:hover:text-slate-300 mb-4">
+          <NuxtLink to="/base64">Base 64 decoder</NuxtLink>
+        </li>
+
+
       </ul>
     </nav>
     <main class="w-full col-span-10 sm:col-span-10">
